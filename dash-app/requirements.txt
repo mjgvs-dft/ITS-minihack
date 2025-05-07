@@ -1,0 +1,11 @@
+contextily
+dash
+dash_bootstrap_components
+pandas
+numpy
+plotly
+gunicorn
+geopandas
+folium
+scikit-mobility
+shapely==1.7.1
