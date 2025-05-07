@@ -11,7 +11,7 @@ A Dash application for visualizing transportation trends in Bogota, Colombia.
 ## Installation
 
 1. Clone this repository
-2. Create a conda environment and install dependencies from `environment.yml`
+2. Create a conda environment and install dependencies from `environment.yml` (Note to self: I called this environment the `bogota-dashboard`)
 3. Run the application locally using the command `python app.py` from the `dash-app` directory.
 
 
